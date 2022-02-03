@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          haciendo un buen cambio
+          haciendo un buen cambio para luci 2
           Edit <code>src/App.js</code> otra vez por aca con los cambios hechos ver.
         </p>
         <a
